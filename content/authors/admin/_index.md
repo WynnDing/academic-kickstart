@@ -27,11 +27,11 @@ interests:
 
 education:
   courses:
-  - course: MSc in Library and Information Management, Specialism: Data Science
-    institution: The University of Hong Kong, Hong Kong, China
+  - course: MSc in Library and Information Management
+    institution: The University of Hong Kong
     year: 2017
-  - course: BSc in Information Management and Information System, Specialism: Financial Engineering
-    institution: Zhejiang University of Technology, Hangzhou, China
+  - course: BSc in Information Management and Information System
+    institution: Zhejiang University of Technology
     year: 2016
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
