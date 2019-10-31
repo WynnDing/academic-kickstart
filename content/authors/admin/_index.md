@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: MSc in Library and Information Management, Specialism: Data Science
+    institution: The University of Hong Kong, Hong Kong, China
+    year: 2017
+  - course: BSc in Information Management and Information System, Specialism: Financial Engineering
+    institution: Zhejiang University of Technology, Hangzhou, China
+    year: 2016
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
