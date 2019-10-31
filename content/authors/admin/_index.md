@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a Research Assistant of Machine Intelligence Lab at the Westlake University. Her research interests include information technology, operational research, data science and analytics. She participates the Data Mining in Economic and Finance group, which applies deep learning algorithms and reinforcement learning into economic domain.
+Wenwen Ding is a Research Assistant of Machine Intelligence Lab at the Westlake University. Her research interests include information technology, operational research, data science and analytics. She participates the Data Mining in Economic and Finance group, which applies deep learning algorithms and reinforcement learning into economic domain.
 
