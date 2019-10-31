@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant of MiLAB
 
 # Organizations/Affiliations
 organizations:
