@@ -27,9 +27,6 @@ interests:
 
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
   - course: MSc in Library and Information Management (Specialism: Data Science)
     institution: The University of Hong Kong, Hong Kong, China
     year: 2016
