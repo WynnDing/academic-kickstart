@@ -14,16 +14,16 @@ role: Research Assistant of MiLAB
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Westlake University
+  url: "https://www.wias.org.cn/english/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include information technology, operational research, data science and analytics.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Operational Research
+- Information Technology
 
 education:
   courses:
