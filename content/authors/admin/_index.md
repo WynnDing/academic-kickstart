@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: MSc in Library and Information Management (Specialism: Data Science)
+  - course: MSc in Library and Information Management, Specialism: Data Science
     institution: The University of Hong Kong, Hong Kong, China
     year: 2016
-  - course: BSc in Information Management and Information System (Specialism: Financial Engineering)
+  - course: BSc in Information Management and Information System, Specialism: Financial Engineering
     institution: Zhejiang University of Technology, Hangzhou, China
     year: 2012
 
