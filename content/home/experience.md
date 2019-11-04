@@ -40,11 +40,25 @@ date_format = "Jan 2006"
   date_start = "2018-12-01"
   date_end = "2019-08-31"
   description = """
-  * Built reject inference models, with the latest result of “An Empirical Study on Reject Inference Using Ensemble Incremental Learning Iterative Mechanism Based on AUC Improvement” forthcoming as a publication
-  * GitHub project: https://github.com/WynnDing/reject-inference-lendingclub
+  * Built reject inference models, GitHub project: https://github.com/WynnDing/reject-inference-lendingclub
   * Utilized EDA, generating business analysis code guidance book to be used by colleagues lacking in programming experience
   * Extracted, cleaned, and integrated data from the database, and used visualization to generate and optimize the weekly data reports
   """
   
+[[experience]]
+  title = "Senior Data Engineer (Partnership)"
+  company = "Hangzhou Yunsu Apartment Management Co., Ltd."
+  company_url = "https://mp.weixin.qq.com/s/SyTBaaOS17o1JPtr_xjsIg"
+  location = "Hangzhou, China"
+  date_start = "2018-03-01"
+  date_end = "2018-11-30"
+  description = """
+    
+  * Built the Yunsu WeChat Stewardship Monitoring System (NLP, Python)
+  * Implemented OTA platform Web Crawling for the company to compete against hotels, maintain order information, and monitor their sales in real time (Python)
+  * Developed a hotel management system based on my own reporting designs (Java)
+  * Built the company’s official small program and internal collaboration platform (PHP)
+  """
+
   
 +++
