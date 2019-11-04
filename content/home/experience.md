@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2016-10-01"
   date_end = "2017-12-09"
-  description = """
+  description = """Responsibilities include:
     
   * Conducted coding statistical analysis from the prediction model information, and verified the key variables for the outcome’s study
   * Wrote academic publishing drafts, and met with data mining professionals to ensure the scientific evaluation and analysis’ accuracy
