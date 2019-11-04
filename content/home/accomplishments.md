@@ -46,9 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.kesci.com/home/dataset/58c614aab84b2c48165a262d"
   date_start = "2017-03-01"
   date_end = "2017-04-21"
-  description = "
-  * Drew the real data’s investment income curves from the statistics’ early repayment rate and collection rate
-  * Used RapidMiner to develop three data mining processes: Analysis of User Risk Profit Preference, Investment Target Recommendation System, and User Retention Prediction Analysis"
+  description = "Drew the real data’s investment income curves from the statistics’ early repayment rate and collection rate; Used RapidMiner to develop three data mining processes: Analysis of User Risk Profit Preference, Investment Target Recommendation System, and User Retention Prediction Analysis"
 
 [[item]]
   organization = "BitwiseHacks"
