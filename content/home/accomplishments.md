@@ -58,15 +58,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "Qiucheng Business College"
-  organization_url = "http://www.liangcang.vc/qiucheng/"
-  title = "Private Board member"
-  url = ""
-  certificate_url = "http://www.liangcang.vc/qiucheng/"
-  date_start = "2018-09-17"
-  date_end = ""
-  description = ""
 
 [[item]]
   organization = "Dunhuang Academy, China"
