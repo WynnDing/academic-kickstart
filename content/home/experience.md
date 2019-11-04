@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Working Experience"
 subtitle = ""
 
 # Date format for experience
@@ -60,5 +60,19 @@ date_format = "Jan 2006"
   * Built the company’s official small program and internal collaboration platform (PHP)
   """
 
+[[experience]]
+  title = "Data Engineer"
+  company = "Hangzhou Zuobiao Real Estate Marketing Planning Co., Ltd."
+  company_url = "http://www.zuobiao.wang/"
+  location = "Hangzhou, China"
+  date_start = "2017-09-01"
+  date_end = "2018-02-28"
+  description = """
+    
+  * Built a real-time overview of the regional transaction data, based on the DataV
+  * Provided decision support through: organizing annual transaction data, collecting market data, and calculating market share and volatility
+  """
+  
+  
   
 +++
