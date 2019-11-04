@@ -46,8 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-06-01"
   date_end = "2017-09-01"
-  description = "Implemented data cleaning for the investment information data, by selecting features and
-testing the prediction models (SVM, NN, LR, etc.); Performed keyword extraction from the daily investment news, using NLP word segmentation API"
+  description = "Implemented data cleaning for the investment information data, by selecting features and testing the prediction models (SVM, NN, LR, etc.); Performed keyword extraction from the daily investment news, using NLP word segmentation API"
 
 [[item]]
   organization = "Zhejiang Taixuan Network Technology Co., Ltd."
