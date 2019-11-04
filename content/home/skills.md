@@ -13,7 +13,13 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
+  
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "50%"
+  
 [[feature]]
   icon = "python"
   icon_pack = "fab"
@@ -31,5 +37,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Oil Painting"
   description = "70%"
+  
+[[feature]]
+  icon = "om"
+  icon_pack = "fas"
+  name = "Sanskrit"
+  description = "10%"
 
 +++
