@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Hangzhou, China"
   date_start = "2019-10-23"
   date_end = ""
-  description = """Responsible for learning new technology of Deep Learning, practical project development, application technology research."""
+  description = """Responsible for learning new technology of Deep Learning, practical project development, application technology research.
   Responsibilities include:
   
   * Analysing
