@@ -40,6 +40,7 @@ date_format = "Jan 2006"
   date_start = "2018-12-01"
   date_end = "2019-08-31"
   description = """Responsibilities include:
+  
   * Built reject inference models, GitHub project: https://github.com/WynnDing/reject-inference-lendingclub
   * Utilized EDA, generating business analysis code guidance book to be used by colleagues lacking in programming experience
   * Extracted, cleaned, and integrated data from the database, and used visualization to generate and optimize the weekly data reports
