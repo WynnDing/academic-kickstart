@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Working Experience"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -39,8 +39,7 @@ date_format = "Jan 2006"
   location = "Hangzhou, China"
   date_start = "2018-12-01"
   date_end = "2019-08-31"
-  description = """
-  * Built reject inference models, GitHub project: https://github.com/WynnDing/reject-inference-lendingclub
+  description = """* Built reject inference models, GitHub project: https://github.com/WynnDing/reject-inference-lendingclub
   * Utilized EDA, generating business analysis code guidance book to be used by colleagues lacking in programming experience
   * Extracted, cleaned, and integrated data from the database, and used visualization to generate and optimize the weekly data reports
   """
@@ -72,7 +71,31 @@ date_format = "Jan 2006"
   * Built a real-time overview of the regional transaction data, based on the DataV
   * Provided decision support through: organizing annual transaction data, collecting market data, and calculating market share and volatility
   """
+ 
+[[experience]]
+  title = "Research Assistant (PT)"
+  company = "HKU, Information Technology Studies"
+  company_url = "https://www.cite.hku.hk/"
+  location = "Hong Kong"
+  date_start = "2016-10-01"
+  date_end = "2017-12-09"
+  description = """
+    
+  * Conducted coding statistical analysis from the prediction model information, and verified the key variables for the outcome’s study
+  * Wrote academic publishing drafts, and met with data mining professionals to ensure the scientific evaluation and analysis’ accuracy
+  * Built websites for scholastic activities, such as silent auctions and presidential elections
+  """
   
-  
+ 
+[[experience]]
+  title = "Teaching Assistant"
+  company = "HKU, Data-Driven Scholarship Institute"
+  company_url = "https://lib.hku.hk/ddsal/index.html"
+  location = "Hong Kong"
+  date_start = "2016-11-01"
+  date_end = "2016-11-09"
+  description = """Assisted the practical teaching activities for 8 different courses and labs
+  """
+    
   
 +++
