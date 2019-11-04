@@ -29,16 +29,6 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Kesci, PPloan"
-  organization_url = "https://ppdai.com"
-  title = "PPloan E-finance Training Camp"
-  url = ""
-  certificate_url = "https://www.kesci.com/home/dataset/58c614aab84b2c48165a262d"
-  date_start = "2017-03-01"
-  date_end = "2017-04-21"
-  description = "Drew the real data’s investment income curves from the statistics’ early repayment rate and collection rate; Used RapidMiner to develop three data mining processes: Analysis of User Risk Profit Preference, Investment Target Recommendation System, and User Retention Prediction Analysis"
-
-[[item]]
   organization = "BitwiseHacks"
   organization_url = "http://bitwisehacks.com/"
   title = "BitwiseHacks FinTech Hackathon"
@@ -68,15 +58,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-# [[item]]
-#   organization = "Qiucheng Business College"
-#   organization_url = "http://www.liangcang.vc/qiucheng/"
-#   title = "Private Board member"
-#   url = ""
-#   certificate_url = "http://www.liangcang.vc/qiucheng/"
-#   date_start = "2018-09-17"
-#   date_end = ""
-#   description = ""
+[[item]]
+  organization = "Qiucheng Business College"
+  organization_url = "http://www.liangcang.vc/qiucheng/"
+  title = "Private Board member"
+  url = ""
+  certificate_url = "http://www.liangcang.vc/qiucheng/"
+  date_start = "2018-09-17"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Dunhuang Academy, China"
