@@ -39,7 +39,8 @@ date_format = "Jan 2006"
   location = "Hangzhou, China"
   date_start = "2018-12-01"
   date_end = "2019-08-31"
-  description = """* Built reject inference models, GitHub project: https://github.com/WynnDing/reject-inference-lendingclub
+  description = """Responsibilities include:
+  * Built reject inference models, GitHub project: https://github.com/WynnDing/reject-inference-lendingclub
   * Utilized EDA, generating business analysis code guidance book to be used by colleagues lacking in programming experience
   * Extracted, cleaned, and integrated data from the database, and used visualization to generate and optimize the weekly data reports
   """
@@ -51,7 +52,7 @@ date_format = "Jan 2006"
   location = "Hangzhou, China"
   date_start = "2018-03-01"
   date_end = "2018-11-30"
-  description = """
+  description = """Responsibilities include:
     
   * Built the Yunsu WeChat Stewardship Monitoring System (NLP, Python)
   * Implemented OTA platform Web Crawling for the company to compete against hotels, maintain order information, and monitor their sales in real time (Python)
@@ -66,7 +67,7 @@ date_format = "Jan 2006"
   location = "Hangzhou, China"
   date_start = "2017-09-01"
   date_end = "2018-02-28"
-  description = """
+  description = """Responsibilities include:
     
   * Built a real-time overview of the regional transaction data, based on the DataV
   * Provided decision support through: organizing annual transaction data, collecting market data, and calculating market share and volatility
