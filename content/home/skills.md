@@ -33,6 +33,12 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "80%"  
+  
+[[feature]]
   icon = "palette"
   icon_pack = "fas"
   name = "Oil Painting"
