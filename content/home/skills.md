@@ -27,9 +27,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "palette"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Oil Painting"
+  description = "70%"
 
 +++
