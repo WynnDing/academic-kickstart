@@ -33,12 +33,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Senior Data Engineer"
+  company = "Hangzhou Nairong Network Technology Co., Ltd."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Hangzhou, China"
+  date_start = "2018-12-01"
+  date_end = "2019-08-31"
+  description = """
+  * Built reject inference models, with the latest result of “An Empirical Study on Reject Inference Using Ensemble Incremental Learning Iterative Mechanism Based on AUC Improvement” forthcoming as a publication
+  * GitHub project: https://github.com/WynnDing/reject-inference-lendingclub
+  * Utilized EDA, generating business analysis code guidance book to be used by colleagues lacking in programming experience
+  * Extracted, cleaned, and integrated data from the database, and used visualization to generate and optimize the weekly data reports
+  """
+  
+  
 +++
