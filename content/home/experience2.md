@@ -19,6 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Deputy Dean of Operations Research Institute"
+  company = "Hangzhou Qiandianbai Network Technology Co., Ltd."
+  company_url = ""
+  location = "Hangzhou, China"
+  date_start = "2020-01-01"
+  date_end = "2021-07-31"
+  description = """Responsibilities include:
+  
+  * Assist the CEO to formulate the development strategy of the group, and provide the group with technical support in planning, design and technical management.
+  * Responsible for the planning and design management or technical management of the whole group.
+  * Responsible for the product development and innovation of the whole group, collect and summarize the current most advanced and best-selling product designs, and report to the CEO.
+  * Responsible for the training and improvement of the planning and design of the operation research institute and technical management personnel.
+  """
+  
+[[experience]]
   title = "Senior Data Engineer"
   company = "Hangzhou Nairong Network Technology Co., Ltd."
   company_url = ""
