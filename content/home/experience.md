@@ -18,12 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Graduate Assistant"
+  company = "University of Arkansas - Sam M. Walton College of Business"
+  company_url = "https://walton.uark.edu/"
+  location = "Fayetteville, Arkansas, United States"
+  date_start = "2021-08-01"
+  date_end = ""
+  description = """PhD student of Information Systems
+  """
+
+[[experience]]
   title = "Research Assistant"
   company = "Westlake University, Machine Intelligence lab"
   company_url = "https://www.wias.org.cn/english/RESEARCH/InstituteofAdvancedTechnology/"
   location = "Hangzhou, China"
   date_start = "2019-10-23"
-  date_end = ""
+  date_end = "2019-12-31"
   description = """Responsible for learning new technology of Deep Learning, practical project development, application technology research.
   Responsibilities include:
   
