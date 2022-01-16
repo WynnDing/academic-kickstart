@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Deputy Dean of Operations Research Institute"
   company = "Hangzhou Qiandianbai Network Technology Co., Ltd."
-  company_url = ""
+  company_url = "https://www.fenfir.com/"
   location = "Hangzhou, China"
   date_start = "2020-01-01"
   date_end = "2021-07-31"
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Data Engineer"
+  title = "Data Engineer & Assistant President"
   company = "Hangzhou Zuobiao Real Estate Marketing Planning Co., Ltd."
   company_url = "http://www.zuobiao.wang/"
   location = "Hangzhou, China"
