@@ -1,6 +1,6 @@
 +++
 
-title = "Analysing user needs for Dunhuang cultural heritage information on social media. (Thesis)"
+title = "Analysing User Needs for Dunhuang Cultural Heritage Information on Social Media. (Thesis)"
 date = 2017-09-01T00:00:00
 
 # Authors. Comma separated list
