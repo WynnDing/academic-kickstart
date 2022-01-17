@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Information Systems
     institution: Walton College, The University of Arkansas
-    year: 2021-2025
-  - course: MSc in Library and Information Management (Specialism: Data Science)
+    year: 2025
+  - course: MSc in Library and Information Management, Data Science
     institution: The University of Hong Kong
-    year: 2016-2017
+    year: 2017
   - course: BSc in Information Management and Information System
     institution: Zhejiang University of Technology
-    year: 2012-2016
+    year: 2016
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
