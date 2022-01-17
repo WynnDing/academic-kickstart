@@ -1,6 +1,6 @@
 +++
 
-title = "A systematic review of studies on predicting student learning outcomes using learning analytics"
+title = "A Systematic Review of Studies on Predicting Student Learning Outcomes Using Learning Analytics"
 date = 2017-03-13T00:00:00
 
 # Authors. Comma separated list
