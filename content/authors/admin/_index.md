@@ -10,29 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant of MiLAB
+role: PhD student of Information Systems
 
 # Organizations/Affiliations
 organizations:
-- name: Westlake University
-  url: "https://www.wias.org.cn/english/"
+- name: Walton College, UArk
+  url: "https://walton.uark.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include information technology, operational research, data science and analytics.
+bio: My research interests focus on applications of data analytics and artificial intelligence.
 
 interests:
-- Artificial Intelligence
-- Operational Research
-- Information Technology
+- Artificial Intelligence in Fintech
+- Health IT in Traditional Chinese Medicine
+- Cultural Heritage
 
 education:
   courses:
-  - course: MSc in Library and Information Management
+  - course: PhD in Information Systems
+    institution: Walton College, The University of Arkansas
+    year: 2021-2025
+  - course: MSc in Library and Information Management (Specialism: Data Science)
     institution: The University of Hong Kong
-    year: 2017
+    year: 2016-2017
   - course: BSc in Information Management and Information System
     institution: Zhejiang University of Technology
-    year: 2016
+    year: 2012-2016
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
@@ -64,5 +67,5 @@ email: ""
 # - Visitors
 ---
 
-Wenwen Ding is a Research Assistant of Machine Intelligence Lab at the Westlake University. Her research interests include information technology, operational research, data science and analytics. She participates in the Data Mining in Economic and Finance group, which applies deep learning algorithms and reinforcement learning into economic domain.
+Wenwen Ding is a PhD student in Information Systems at Walton College of Business. Her research interests focus on applications of data analytics and artificial intelligence. She is working on Reject Inference, which applies deep learning algorithms and reinforcement learning into financial credit domain.
 
