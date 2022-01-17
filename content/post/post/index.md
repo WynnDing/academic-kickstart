@@ -1,6 +1,6 @@
 ---
 title: Welcome to Doublewen Art World
-subtitle: Art pieces painted on 2021
+subtitle: Art pieces 2021
 
 # Summary for listings and search engines
 summary: Acrylic & oil painting 2021
