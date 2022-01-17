@@ -30,7 +30,6 @@ image:
 
 authors:
 - admin
-- Wenwen Ding
 
 tags:
 - Art
