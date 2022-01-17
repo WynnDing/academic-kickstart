@@ -67,5 +67,5 @@ email: ""
 # - Visitors
 ---
 
-Wenwen Ding is a PhD student in Information Systems at Walton College of Business. Her research interests focus on applications of data analytics and artificial intelligence. She is working on Reject Inference, which applies deep learning algorithms and reinforcement learning into financial credit domain.
+  Wenwen Ding is a PhD student in Information Systems at Walton College of Business. Her research interests focus on applications of data analytics and artificial intelligence. She is working on Reject Inference, which applies deep learning algorithms and reinforcement learning into financial credit domain.
 
