@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Wenwen**](https://github.com/WynnDing/academic-kickstart/blob/8e279a2395574e219444a3224a0285f243dbfde5/static/img/bolan.jpeg)'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
